@@ -17,7 +17,7 @@ public class MessageSenderServlet extends HttpServlet {
     @Resource(lookup ="java:comp/DefaultJMSConnectionFactory")  // JNDI name
             ConnectionFactory factory;
 
-    @Resource(lookup = "OutgoingTradeOrders")  // JNDI name
+    @Resource(lookup = "OutGoingTradeOrders")  // JNDI name
             Destination ordersQueue;
 
 

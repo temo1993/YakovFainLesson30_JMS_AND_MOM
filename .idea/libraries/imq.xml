@@ -2,7 +2,6 @@
   <library name="imq">
     <CLASSES>
       <root url="jar://C:/glassfish4/mq/lib/imq.jar!/" />
-      <root url="jar://C:/glassfish4/mq/lib/jms.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

@@ -7,6 +7,9 @@
         <element id="directory" name="classes">
           <element id="module-output" name="YakovFainLesson30_JMS_AND_MOM" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="imq" />
+        </element>
       </element>
     </root>
   </artifact>
